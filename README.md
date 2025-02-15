@@ -57,7 +57,7 @@ We analyze restaurant data to:
    ```
 3. Run the Jupyter Notebook or Python scripts:
    ```bash
-   python analysis.py
+   python analysis.ipynb
    ```
 
 ##  Future Enhancements
