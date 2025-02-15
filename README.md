@@ -49,7 +49,7 @@ We analyze restaurant data to:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/restaurant-reviews-analysis.git
+   git clone https://github.com/RishikaRavichandran/Cuisine-Analysis.git
    ```
 2. Install required libraries:
    ```bash
